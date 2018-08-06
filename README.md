@@ -26,7 +26,8 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 ### Bonus!
 Section 9, Lecture 151
-Be sure to check out RallyCoding.  You'll find a lot of helpful blog posts, new courses, and all kinds of other stuff!
+
+Be sure to check out RallyCoding [here](https://www.rallycoding.com/courses/).  You'll find a lot of helpful blog posts, new courses, and all kinds of other stuff!
 
 Interested in any of my other courses?  Pick them up for just $10!
 
